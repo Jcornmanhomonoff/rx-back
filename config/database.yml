@@ -1,4 +1,4 @@
-<% project_name = 'rails-api-template' %>
+<% project_name = 'rx-back' %>
 
 default: &default
   adapter: postgresql
