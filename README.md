@@ -1,6 +1,6 @@
 Rails[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# rails-api-template
+# rx-back
 
 A template for starting projects with `rails-api`. Includes authentication.
 
@@ -24,15 +24,15 @@ Install with `bundle install`.
 
 ### Download Template:
 1.  [Download](../../archive/master.zip) this template.
-1.  Unzip and rename the template directory (`unzip ~/Downloads/rails-api-template-master.zip`)
+1.  Unzip and rename the template directory (`unzip ~/Downloads/rx-back-master.zip`)
 1.  Move into the new project and `git init`.
 
 ### Customize Template:
 1.  Empty [`README.md`](README.md) and fill with your own content.
 1.  Rename your app module in `config/application.rb` (change
-    `RailsApiTemplate`).
+    `rx-back`).
 1.  Rename your project database in `config/database.yml` (change
-    `'rails-api-template'`).
+    `'rx-back'`).
 
 ### Setup Environment:
 1.  Install dependencies with `bundle install`.
