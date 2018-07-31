@@ -6,10 +6,10 @@ curl "http://localhost:4741/medications" \
   --header "Content-Type: application/json" \
   --data '{
     "medication": {
-      "name": "Levothyroxine",
-      "dosage": "75mcg",
-      "side_effects": "Gives you energy",
-      "suggestions": "Take in morning with food."
+      "name": "Nuva Ring",
+      "dosage": "1 Ring",
+      "side_effects": "None",
+      "suggestions": "N/A"
     }
   }'
 
